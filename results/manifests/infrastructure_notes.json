@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": "2026-10-20T15:29:37.023680+00:00",
+    "issue": "Attempt 1 had explicit venv interpreter but missing activated venv PATH; FlashInfer JIT could not find ninja. DeepSeek loaded weights but no subject inference occurred. Qwen startup was stopped before it repeated the same failure.",
+    "resolution": "Relaunch unchanged frozen runner with source .venv/bin/activate. Original logs preserved under logs/attempt1 and execution_attempt1.json.",
+    "protocol_changed": false
+  },
+  {
+    "timestamp": "2026-10-20T15:32:30.049939+00:00",
+    "issue": "Attempt 2 reached GPU warmup but FlashInfer ignored XDG_CACHE_HOME and used the default home-directory build cache. Stopped only this runner/server group before subject inference.",
+    "resolution": "Set FLASHINFER_WORKSPACE_BASE, CUDA_CACHE_PATH, TRITON_CACHE_DIR and TORCH_EXTENSIONS_DIR within workspace; preserve logs/attempt2. No model, prompt, parser or analysis changes.",
+    "protocol_changed": false
+  },
+  {
+    "timestamp": "2026-10-20T15:39:31.282305+00:00",
+    "issue": "Inspect task creation changes working directory; relative frozen-world path failed before any inference.",
+    "resolution": "Before any subject inference: resolve task I/O from workspace root under Inspect task-directory execution. Suppress binomial bounds on fractional turn scores, as preregistered; companion all-turn binary bounds remain. Primary estimand and all prompts/settings/data unchanged. Validator reads this effective manifest; original preserved.",
+    "protocol_changed": false
+  },
+  {
+    "timestamp": "2026-10-20T15:43:53.775873+00:00",
+    "issue": "External process on allocated GPU leaves ~16 GiB free; original .90-memory launches fail for both models.",
+    "resolution": "Before all subject inference: same full BF16 checkpoints, cpu_offload_gb=4, gpu_memory_utilization=.18, max_num_seqs/concurrency=16; fixed remaining time split across models due other-process GPU contention. Planned n unchanged; incomplete data ineligible.",
+    "protocol_changed": "serving/resource settings only, before all subject inference"
+  },
+  {
+    "timestamp": "2026-10-20T15:47:41.797044+00:00",
+    "issue": "External GPU process exited while vLLM profiled memory; offload startup computed negative KV budget and failed.",
+    "resolution": "No subject inference yet: external GPU process exited; restore original BF16 full-GPU settings (.90 memory, 96 sequences, CPU offload 0). Equal remaining-time split retained. Offload was only a failed startup attempt.",
+    "protocol_changed": "restore original serving settings before all subject inference"
+  },
+  {
+    "timestamp": "2026-10-20T15:48:22.558189+00:00",
+    "issue": "Raw completion endpoint adds BOS by default to already rendered chat template.",
+    "resolution": "Pre-inference source audit: vLLM raw completion API defaults add_special_tokens=True. Explicitly disable it because the frozen native chat template already supplies BOS. Prevents duplicate BOS; no subject outputs existed.",
+    "protocol_changed": false
+  }
+]

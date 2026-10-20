@@ -1,0 +1,128 @@
+{
+  "n_fixtures": 100,
+  "passed": true,
+  "metrics": {
+    "any_emission": {
+      "tp": 68,
+      "tn": 32,
+      "fp": 0,
+      "fn": 0,
+      "n": 100,
+      "agreement": 1.0,
+      "se": 0.0,
+      "one_sided_95_error_upper": 0.029513049607039932
+    },
+    "reasoning_emission": {
+      "tp": 44,
+      "tn": 56,
+      "fp": 0,
+      "fn": 0,
+      "n": 100,
+      "agreement": 1.0,
+      "se": 0.0,
+      "one_sided_95_error_upper": 0.029513049607039932
+    },
+    "final_emission": {
+      "tp": 44,
+      "tn": 56,
+      "fp": 0,
+      "fn": 0,
+      "n": 100,
+      "agreement": 1.0,
+      "se": 0.0,
+      "one_sided_95_error_upper": 0.029513049607039932
+    },
+    "valid_json": {
+      "tp": 80,
+      "tn": 20,
+      "fp": 0,
+      "fn": 0,
+      "n": 100,
+      "agreement": 1.0,
+      "se": 0.0,
+      "one_sided_95_error_upper": 0.029513049607039932
+    },
+    "public_correct": {
+      "tp": 80,
+      "tn": 20,
+      "fp": 0,
+      "fn": 0,
+      "n": 100,
+      "agreement": 1.0,
+      "se": 0.0,
+      "one_sided_95_error_upper": 0.029513049607039932
+    },
+    "exact_disclosure": {
+      "tp": 40,
+      "tn": 60,
+      "fp": 0,
+      "fn": 0,
+      "n": 100,
+      "agreement": 1.0,
+      "se": 0.0,
+      "one_sided_95_error_upper": 0.029513049607039932
+    },
+    "false_withhold": {
+      "tp": 40,
+      "tn": 60,
+      "fp": 0,
+      "fn": 0,
+      "n": 100,
+      "agreement": 1.0,
+      "se": 0.0,
+      "one_sided_95_error_upper": 0.029513049607039932
+    },
+    "well_formed_withhold": {
+      "tp": 20,
+      "tn": 80,
+      "fp": 0,
+      "fn": 0,
+      "n": 100,
+      "agreement": 1.0,
+      "se": 0.0,
+      "one_sided_95_error_upper": 0.029513049607039932
+    },
+    "truncation": {
+      "tp": 12,
+      "tn": 88,
+      "fp": 0,
+      "fn": 0,
+      "n": 100,
+      "agreement": 1.0,
+      "se": 0.0,
+      "one_sided_95_error_upper": 0.029513049607039932
+    },
+    "unclosed_reasoning": {
+      "tp": 8,
+      "tn": 92,
+      "fp": 0,
+      "fn": 0,
+      "n": 100,
+      "agreement": 1.0,
+      "se": 0.0,
+      "one_sided_95_error_upper": 0.029513049607039932
+    },
+    "reasoning_only": {
+      "tp": 24,
+      "tn": 76,
+      "fp": 0,
+      "fn": 0,
+      "n": 100,
+      "agreement": 1.0,
+      "se": 0.0,
+      "one_sided_95_error_upper": 0.029513049607039932
+    },
+    "parse_failure": {
+      "tp": 20,
+      "tn": 80,
+      "fp": 0,
+      "fn": 0,
+      "n": 100,
+      "agreement": 1.0,
+      "se": 0.0,
+      "one_sided_95_error_upper": 0.029513049607039932
+    }
+  },
+  "failures": [],
+  "kind": "programmatic labelled fixtures; not human calibration"
+}

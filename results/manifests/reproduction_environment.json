@@ -1,0 +1,10 @@
+{
+  "activate": "source .venv/bin/activate",
+  "CUDA_VISIBLE_DEVICES": "1",
+  "FLASHINFER_WORKSPACE_BASE": "$PWD",
+  "CUDA_CACHE_PATH": "$PWD/.cache/cuda",
+  "TRITON_CACHE_DIR": "$PWD/.cache/triton",
+  "TORCH_EXTENSIONS_DIR": "$PWD/.cache/torch_extensions",
+  "STUDY_DEADLINE": "1792512000 (2026-10-20T16:00:00Z; omit or replace for future full collection)",
+  "effective_manifest": "results/manifests/preregistered_hashes_effective.json"
+}

@@ -1,0 +1,758 @@
+{
+  "COPYING": [
+    "shortuuid"
+  ],
+  "PIL": [
+    "pillow"
+  ],
+  "PyNvVideoCodec": [
+    "pynvvideocodec"
+  ],
+  "_cffi_backend": [
+    "cffi"
+  ],
+  "_distutils_hack": [
+    "setuptools"
+  ],
+  "_multiprocess": [
+    "multiprocess"
+  ],
+  "_xxhash": [
+    "xxhash"
+  ],
+  "_yaml": [
+    "PyYAML"
+  ],
+  "acp": [
+    "agent-client-protocol"
+  ],
+  "agent_detector": [
+    "agent-detector"
+  ],
+  "aiobotocore": [
+    "aiobotocore"
+  ],
+  "aiohappyeyeballs": [
+    "aiohappyeyeballs"
+  ],
+  "aiohttp": [
+    "aiohttp"
+  ],
+  "aioitertools": [
+    "aioitertools"
+  ],
+  "aiosignal": [
+    "aiosignal"
+  ],
+  "annotated_doc": [
+    "annotated-doc"
+  ],
+  "annotated_types": [
+    "annotated-types"
+  ],
+  "anthropic": [
+    "anthropic"
+  ],
+  "anyio": [
+    "anyio"
+  ],
+  "astor": [
+    "astor"
+  ],
+  "attr": [
+    "attrs"
+  ],
+  "attrs": [
+    "attrs"
+  ],
+  "backoff": [
+    "backoff"
+  ],
+  "benchmarks": [
+    "pynvvideocodec"
+  ],
+  "blake3": [
+    "blake3"
+  ],
+  "boto3": [
+    "boto3"
+  ],
+  "botocore": [
+    "botocore"
+  ],
+  "bs4": [
+    "beautifulsoup4"
+  ],
+  "build_backend": [
+    "flashinfer-python",
+    "torch_c_dlpack_ext"
+  ],
+  "build_utils": [
+    "flashinfer-python"
+  ],
+  "cachetools": [
+    "cachetools"
+  ],
+  "cbor2": [
+    "cbor2"
+  ],
+  "certifi": [
+    "certifi"
+  ],
+  "cffi": [
+    "cffi"
+  ],
+  "charset_normalizer": [
+    "charset-normalizer"
+  ],
+  "click": [
+    "click"
+  ],
+  "cloudpickle": [
+    "cloudpickle"
+  ],
+  "compressed_tensors": [
+    "compressed-tensors"
+  ],
+  "contourpy": [
+    "contourpy"
+  ],
+  "cpuinfo": [
+    "py-cpuinfo"
+  ],
+  "cryptography": [
+    "cryptography"
+  ],
+  "cuda": [
+    "cuda-tile",
+    "cuda-core",
+    "cuda-pathfinder",
+    "cuda-bindings"
+  ],
+  "cudnn": [
+    "nvidia-cudnn-frontend"
+  ],
+  "cutile_cache": [
+    "cuda-tile"
+  ],
+  "cv2": [
+    "opencv-python-headless"
+  ],
+  "cycler": [
+    "cycler"
+  ],
+  "datasets": [
+    "datasets"
+  ],
+  "dateutil": [
+    "python-dateutil"
+  ],
+  "debugpy": [
+    "debugpy"
+  ],
+  "depyf": [
+    "depyf"
+  ],
+  "detect_installer": [
+    "detect-installer"
+  ],
+  "dill": [
+    "dill"
+  ],
+  "dns": [
+    "dnspython"
+  ],
+  "docstring_parser": [
+    "docstring_parser"
+  ],
+  "dotenv": [
+    "python-dotenv"
+  ],
+  "einops": [
+    "einops"
+  ],
+  "email_validator": [
+    "email-validator"
+  ],
+  "example": [
+    "nvidia-ml-py"
+  ],
+  "fastapi": [
+    "fastapi"
+  ],
+  "fastapi_cli": [
+    "fastapi-cli"
+  ],
+  "fastapi_cloud_cli": [
+    "fastapi-cloud-cli"
+  ],
+  "fastar": [
+    "fastar"
+  ],
+  "fastsafetensors": [
+    "fastsafetensors"
+  ],
+  "filelock": [
+    "filelock"
+  ],
+  "fitz": [
+    "PyMuPDF"
+  ],
+  "flashinfer": [
+    "flashinfer-python"
+  ],
+  "fontTools": [
+    "fonttools"
+  ],
+  "frozenlist": [
+    "frozenlist"
+  ],
+  "fsspec": [
+    "fsspec"
+  ],
+  "functorch": [
+    "torch"
+  ],
+  "google": [
+    "googleapis-common-protos",
+    "protobuf"
+  ],
+  "grpc": [
+    "grpcio"
+  ],
+  "h11": [
+    "h11"
+  ],
+  "hf_xet": [
+    "hf-xet"
+  ],
+  "httpcore": [
+    "httpcore"
+  ],
+  "httpcore2": [
+    "httpcore2"
+  ],
+  "httptools": [
+    "httptools"
+  ],
+  "httpx": [
+    "httpx"
+  ],
+  "httpx2": [
+    "httpx2"
+  ],
+  "huggingface_hub": [
+    "huggingface_hub"
+  ],
+  "humming": [
+    "humming-kernels"
+  ],
+  "idna": [
+    "idna"
+  ],
+  "ijson": [
+    "ijson"
+  ],
+  "include": [
+    "nvidia-cudnn-frontend"
+  ],
+  "inspect_ai": [
+    "inspect_ai"
+  ],
+  "inspect_evals": [
+    "inspect_evals"
+  ],
+  "instanttensor": [
+    "instanttensor"
+  ],
+  "interegular": [
+    "interegular"
+  ],
+  "isympy": [
+    "sympy"
+  ],
+  "jinja2": [
+    "Jinja2"
+  ],
+  "jiter": [
+    "jiter"
+  ],
+  "jmespath": [
+    "jmespath"
+  ],
+  "jsonlines": [
+    "jsonlines"
+  ],
+  "jsonpatch": [
+    "jsonpatch"
+  ],
+  "jsonpatch_cli": [
+    "jsonpatch"
+  ],
+  "jsonpath_ng": [
+    "jsonpath-ng"
+  ],
+  "jsonpointer": [
+    "jsonpointer"
+  ],
+  "jsonref": [
+    "jsonref"
+  ],
+  "jsonschema": [
+    "jsonschema"
+  ],
+  "jsonschema_specifications": [
+    "jsonschema-specifications"
+  ],
+  "jwt": [
+    "PyJWT"
+  ],
+  "kiwisolver": [
+    "kiwisolver"
+  ],
+  "lark": [
+    "lark"
+  ],
+  "linkify_it": [
+    "linkify-it-py"
+  ],
+  "llguidance": [
+    "llguidance"
+  ],
+  "llvmlite": [
+    "llvmlite"
+  ],
+  "lmformatenforcer": [
+    "lm-format-enforcer"
+  ],
+  "loguru": [
+    "loguru"
+  ],
+  "markdown_it": [
+    "markdown-it-py"
+  ],
+  "markupsafe": [
+    "MarkupSafe"
+  ],
+  "matplotlib": [
+    "matplotlib"
+  ],
+  "mcp": [
+    "mcp"
+  ],
+  "mcp_types": [
+    "mcp-types"
+  ],
+  "mdit_py_plugins": [
+    "mdit-py-plugins"
+  ],
+  "mdurl": [
+    "mdurl"
+  ],
+  "mistral_common": [
+    "mistral_common"
+  ],
+  "ml_dtypes": [
+    "ml_dtypes"
+  ],
+  "mmh3": [
+    "mmh3"
+  ],
+  "model_hosting_container_standards": [
+    "model-hosting-container-standards"
+  ],
+  "mpl_toolkits": [
+    "matplotlib"
+  ],
+  "mpmath": [
+    "mpmath"
+  ],
+  "msgspec": [
+    "msgspec"
+  ],
+  "multidict": [
+    "multidict"
+  ],
+  "multipart": [
+    "python-multipart"
+  ],
+  "multiprocess": [
+    "multiprocess"
+  ],
+  "nccl": [
+    "nccl4py"
+  ],
+  "nest_asyncio2": [
+    "nest-asyncio2"
+  ],
+  "networkx": [
+    "networkx"
+  ],
+  "ninja": [
+    "ninja"
+  ],
+  "numba": [
+    "numba"
+  ],
+  "numpy": [
+    "numpy"
+  ],
+  "nvidia": [
+    "nvidia-nvvm",
+    "nvidia-nvjitlink",
+    "nvidia-cuda-nvrtc",
+    "nvidia-cuda-nvcc",
+    "nvidia-curand",
+    "nvidia-nvshmem-cu13",
+    "nvidia-cuda-cupti",
+    "nvidia-cuda-cccl",
+    "nvidia-cufft",
+    "nvidia-cuda-nvdisasm",
+    "nvidia-nvtx",
+    "nvidia-cublas",
+    "nvidia-cusolver",
+    "nvidia-cuda-runtime",
+    "nvidia-cuda-crt",
+    "nvidia-nccl-cu13",
+    "nvidia-cudnn-cu13",
+    "nvidia-cusparse",
+    "nvidia-cufile"
+  ],
+  "nvidia/cusparselt": [
+    "nvidia-cusparselt-cu13"
+  ],
+  "nvidia_cutlass_dsl": [
+    "nvidia-cutlass-dsl-libs-base",
+    "nvidia-cutlass-dsl-libs-core",
+    "nvidia-cutlass-dsl-libs-cu12",
+    "nvidia-cutlass-dsl-libs-cu13"
+  ],
+  "nvtx": [
+    "nvtx"
+  ],
+  "openai": [
+    "openai"
+  ],
+  "openai_harmony": [
+    "openai-harmony"
+  ],
+  "opentelemetry": [
+    "opentelemetry-sdk",
+    "opentelemetry-exporter-otlp-common",
+    "opentelemetry-api",
+    "opentelemetry-exporter-otlp-proto-grpc",
+    "opentelemetry-exporter-otlp-proto-http",
+    "opentelemetry-semantic-conventions-ai",
+    "opentelemetry-proto",
+    "opentelemetry-exporter-http-transport",
+    "opentelemetry-exporter-otlp-proto-common",
+    "opentelemetry-semantic-conventions",
+    "opentelemetry-exporter-otlp"
+  ],
+  "outlines_core": [
+    "outlines_core"
+  ],
+  "packaging": [
+    "packaging"
+  ],
+  "pandas": [
+    "pandas"
+  ],
+  "partial_json_parser": [
+    "partial-json-parser"
+  ],
+  "pathlib_abc": [
+    "pathlib_abc"
+  ],
+  "pkg_resources": [
+    "setuptools"
+  ],
+  "platformdirs": [
+    "platformdirs"
+  ],
+  "prometheus_client": [
+    "prometheus_client"
+  ],
+  "prometheus_fastapi_instrumentator": [
+    "prometheus-fastapi-instrumentator"
+  ],
+  "propcache": [
+    "propcache"
+  ],
+  "proxytypes": [
+    "jsonref"
+  ],
+  "psutil": [
+    "psutil"
+  ],
+  "pyarrow": [
+    "pyarrow"
+  ],
+  "pybase64": [
+    "pybase64"
+  ],
+  "pycountry": [
+    "pycountry"
+  ],
+  "pycparser": [
+    "pycparser"
+  ],
+  "pydantic": [
+    "pydantic"
+  ],
+  "pydantic_core": [
+    "pydantic_core"
+  ],
+  "pydantic_extra_types": [
+    "pydantic-extra-types"
+  ],
+  "pydantic_settings": [
+    "pydantic-settings"
+  ],
+  "pygments": [
+    "Pygments"
+  ],
+  "pylab": [
+    "matplotlib"
+  ],
+  "pymupdf": [
+    "PyMuPDF"
+  ],
+  "pynvml": [
+    "nvidia-ml-py"
+  ],
+  "pyparsing": [
+    "pyparsing"
+  ],
+  "pypdf": [
+    "pypdf"
+  ],
+  "python_multipart": [
+    "python-multipart"
+  ],
+  "pythonjsonlogger": [
+    "python-json-logger"
+  ],
+  "quack": [
+    "quack-kernels"
+  ],
+  "referencing": [
+    "referencing"
+  ],
+  "regex": [
+    "regex"
+  ],
+  "register_tooling": [
+    "inspect_evals"
+  ],
+  "requests": [
+    "requests"
+  ],
+  "rich": [
+    "rich"
+  ],
+  "rich_toolkit": [
+    "rich-toolkit"
+  ],
+  "rignore": [
+    "rignore"
+  ],
+  "rpds": [
+    "rpds-py"
+  ],
+  "s3fs": [
+    "s3fs"
+  ],
+  "s3transfer": [
+    "s3transfer"
+  ],
+  "safetensors": [
+    "safetensors"
+  ],
+  "samples": [
+    "pynvvideocodec"
+  ],
+  "scipy": [
+    "scipy"
+  ],
+  "semver": [
+    "semver"
+  ],
+  "sentencepiece": [
+    "sentencepiece"
+  ],
+  "sentencepiece/__init__": [
+    "sentencepiece"
+  ],
+  "sentencepiece/_version": [
+    "sentencepiece"
+  ],
+  "sentencepiece/sentencepiece_model_pb2": [
+    "sentencepiece"
+  ],
+  "sentencepiece/sentencepiece_pb2": [
+    "sentencepiece"
+  ],
+  "sentry_sdk": [
+    "sentry-sdk"
+  ],
+  "setproctitle": [
+    "setproctitle"
+  ],
+  "setuptools": [
+    "setuptools"
+  ],
+  "shellingham": [
+    "shellingham"
+  ],
+  "shortuuid": [
+    "shortuuid"
+  ],
+  "six": [
+    "six"
+  ],
+  "sniffio": [
+    "sniffio"
+  ],
+  "soupsieve": [
+    "soupsieve"
+  ],
+  "sse_starlette": [
+    "sse-starlette"
+  ],
+  "starlette": [
+    "starlette"
+  ],
+  "supervisor": [
+    "supervisor"
+  ],
+  "sympy": [
+    "sympy"
+  ],
+  "tabulate": [
+    "tabulate"
+  ],
+  "tenacity": [
+    "tenacity"
+  ],
+  "textual": [
+    "textual"
+  ],
+  "tiktoken": [
+    "tiktoken"
+  ],
+  "tiktoken_ext": [
+    "tiktoken"
+  ],
+  "tilelang": [
+    "tilelang"
+  ],
+  "tokenizers": [
+    "tokenizers"
+  ],
+  "tokenspeed_mla": [
+    "tokenspeed-mla"
+  ],
+  "tokenspeed_triton": [
+    "tokenspeed-triton"
+  ],
+  "toml": [
+    "toml"
+  ],
+  "torch": [
+    "torch"
+  ],
+  "torch_c_dlpack_ext": [
+    "torch_c_dlpack_ext"
+  ],
+  "torchaudio": [
+    "torchaudio"
+  ],
+  "torchcodec": [
+    "torchcodec"
+  ],
+  "torchgen": [
+    "torch"
+  ],
+  "torchvision": [
+    "torchvision"
+  ],
+  "tqdm": [
+    "tqdm"
+  ],
+  "transformers": [
+    "transformers"
+  ],
+  "triton": [
+    "triton"
+  ],
+  "truststore": [
+    "truststore"
+  ],
+  "tvm_ffi": [
+    "apache-tvm-ffi"
+  ],
+  "typer": [
+    "typer"
+  ],
+  "typing_extensions": [
+    "typing_extensions"
+  ],
+  "typing_inspection": [
+    "typing-inspection"
+  ],
+  "upath": [
+    "universal_pathlib"
+  ],
+  "urllib3": [
+    "urllib3"
+  ],
+  "uvicorn": [
+    "uvicorn"
+  ],
+  "uvloop": [
+    "uvloop"
+  ],
+  "vllm": [
+    "vllm"
+  ],
+  "watchfiles": [
+    "watchfiles"
+  ],
+  "websockets": [
+    "websockets"
+  ],
+  "wrapt": [
+    "wrapt"
+  ],
+  "wrapt-stubs": [
+    "wrapt"
+  ],
+  "xgrammar": [
+    "xgrammar"
+  ],
+  "xxhash": [
+    "xxhash"
+  ],
+  "yaml": [
+    "PyYAML"
+  ],
+  "yarl": [
+    "yarl"
+  ],
+  "z3": [
+    "z3-solver"
+  ],
+  "zipfile_zstd": [
+    "zipfile-zstd"
+  ],
+  "zipp": [
+    "zipp"
+  ],
+  "zmq": [
+    "pyzmq"
+  ],
+  "zstandard": [
+    "zstandard"
+  ]
+}

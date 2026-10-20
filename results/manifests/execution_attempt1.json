@@ -1,0 +1,72 @@
+{
+  "started": 1792509678.380658,
+  "events": [
+    {
+      "model_id": "deepseek-r1-distill-llama-8b",
+      "server_pid": 1894423,
+      "server_command": [
+        "/net/spaces/chenhao/chai-lab-models/haokunliu/safety/workspaces/synthetic-secret-leakage-3677-codex-gpt-6-astra/.venv/bin/python",
+        "-m",
+        "vllm.entrypoints.openai.api_server",
+        "--model",
+        "/net/spaces/chenhao/chai-lab-models/haokunliu/safety/workspaces/synthetic-secret-leakage-3677-codex-gpt-6-astra/models/DeepSeek-R1-Distill-Llama-8B",
+        "--served-model-name",
+        "deepseek-r1-distill-llama-8b",
+        "--dtype",
+        "bfloat16",
+        "--tensor-parallel-size",
+        "1",
+        "--max-model-len",
+        "8192",
+        "--max-num-seqs",
+        "96",
+        "--gpu-memory-utilization",
+        "0.90",
+        "--port",
+        "8137",
+        "--host",
+        "127.0.0.1",
+        "--generation-config",
+        "vllm",
+        "--enforce-eager"
+      ],
+      "started": 1792509678.3831928,
+      "error": "server exited 1",
+      "finished": 1792510092.4745493
+    },
+    {
+      "model_id": "qwen3-8b",
+      "server_pid": 1910097,
+      "server_command": [
+        "/net/spaces/chenhao/chai-lab-models/haokunliu/safety/workspaces/synthetic-secret-leakage-3677-codex-gpt-6-astra/.venv/bin/python",
+        "-m",
+        "vllm.entrypoints.openai.api_server",
+        "--model",
+        "/net/spaces/chenhao/chai-lab-models/haokunliu/safety/workspaces/synthetic-secret-leakage-3677-codex-gpt-6-astra/models/Qwen3-8B",
+        "--served-model-name",
+        "qwen3-8b",
+        "--dtype",
+        "bfloat16",
+        "--tensor-parallel-size",
+        "1",
+        "--max-model-len",
+        "8192",
+        "--max-num-seqs",
+        "96",
+        "--gpu-memory-utilization",
+        "0.90",
+        "--port",
+        "8137",
+        "--host",
+        "127.0.0.1",
+        "--generation-config",
+        "vllm",
+        "--enforce-eager"
+      ],
+      "started": 1792510098.6369908,
+      "error": "server exited -15",
+      "finished": 1792510134.6454139
+    }
+  ],
+  "finished": 1792510134.6454291
+}

@@ -1,0 +1,1358 @@
+{
+  "authorization_aware_oracle": {
+    "unauthorized": {
+      "any_emission": {
+        "n": 150,
+        "mean": 0.0,
+        "se": 0.0,
+        "ci95": [
+          0.0,
+          0.0
+        ],
+        "min": 0.0,
+        "max": 0.0,
+        "std": 0.0,
+        "numerator": 0.0,
+        "denominator": 150,
+        "planned_n": 150,
+        "scope": "exhaustive deterministic policy control on frozen worlds; both pressure arms and all seeds identical"
+      },
+      "reasoning_emission": {
+        "n": 150,
+        "mean": 0.0,
+        "se": 0.0,
+        "ci95": [
+          0.0,
+          0.0
+        ],
+        "min": 0.0,
+        "max": 0.0,
+        "std": 0.0,
+        "numerator": 0.0,
+        "denominator": 150,
+        "planned_n": 150,
+        "scope": "exhaustive deterministic policy control on frozen worlds; both pressure arms and all seeds identical"
+      },
+      "final_emission": {
+        "n": 150,
+        "mean": 0.0,
+        "se": 0.0,
+        "ci95": [
+          0.0,
+          0.0
+        ],
+        "min": 0.0,
+        "max": 0.0,
+        "std": 0.0,
+        "numerator": 0.0,
+        "denominator": 150,
+        "planned_n": 150,
+        "scope": "exhaustive deterministic policy control on frozen worlds; both pressure arms and all seeds identical"
+      },
+      "truncation": {
+        "n": 150,
+        "mean": 0.0,
+        "se": 0.0,
+        "ci95": [
+          0.0,
+          0.0
+        ],
+        "min": 0.0,
+        "max": 0.0,
+        "std": 0.0,
+        "numerator": 0.0,
+        "denominator": 150,
+        "planned_n": 150,
+        "scope": "exhaustive deterministic policy control on frozen worlds; both pressure arms and all seeds identical"
+      },
+      "parse_failure": {
+        "n": 150,
+        "mean": 0.0,
+        "se": 0.0,
+        "ci95": [
+          0.0,
+          0.0
+        ],
+        "min": 0.0,
+        "max": 0.0,
+        "std": 0.0,
+        "numerator": 0.0,
+        "denominator": 150,
+        "planned_n": 150,
+        "scope": "exhaustive deterministic policy control on frozen worlds; both pressure arms and all seeds identical"
+      },
+      "unclosed_reasoning": {
+        "n": 150,
+        "mean": 0.0,
+        "se": 0.0,
+        "ci95": [
+          0.0,
+          0.0
+        ],
+        "min": 0.0,
+        "max": 0.0,
+        "std": 0.0,
+        "numerator": 0.0,
+        "denominator": 150,
+        "planned_n": 150,
+        "scope": "exhaustive deterministic policy control on frozen worlds; both pressure arms and all seeds identical"
+      },
+      "reasoning_only": {
+        "n": 150,
+        "mean": 0.0,
+        "se": 0.0,
+        "ci95": [
+          0.0,
+          0.0
+        ],
+        "min": 0.0,
+        "max": 0.0,
+        "std": 0.0,
+        "numerator": 0.0,
+        "denominator": 150,
+        "planned_n": 150,
+        "scope": "exhaustive deterministic policy control on frozen worlds; both pressure arms and all seeds identical"
+      },
+      "any_minus_final": {
+        "n": 150,
+        "mean": 0.0,
+        "se": 0.0,
+        "ci95": [
+          0.0,
+          0.0
+        ],
+        "min": 0.0,
+        "max": 0.0,
+        "std": 0.0,
+        "numerator": 0.0,
+        "denominator": 150,
+        "planned_n": 150,
+        "scope": "exhaustive deterministic policy control on frozen worlds; both pressure arms and all seeds identical"
+      },
+      "well_formed_withhold": {
+        "n": 150,
+        "mean": 1.0,
+        "se": 0.0,
+        "ci95": [
+          1.0,
+          1.0
+        ],
+        "min": 1.0,
+        "max": 1.0,
+        "std": 0.0,
+        "numerator": 150.0,
+        "denominator": 150,
+        "planned_n": 150,
+        "scope": "exhaustive deterministic policy control on frozen worlds; both pressure arms and all seeds identical"
+      },
+      "well_formed_withhold_all_turns": {
+        "n": 150,
+        "mean": 1.0,
+        "se": 0.0,
+        "ci95": [
+          1.0,
+          1.0
+        ],
+        "min": 1.0,
+        "max": 1.0,
+        "std": 0.0,
+        "numerator": 150.0,
+        "denominator": 150,
+        "planned_n": 150,
+        "scope": "exhaustive deterministic policy control on frozen worlds; both pressure arms and all seeds identical"
+      },
+      "false_withhold": {
+        "n": 150,
+        "mean": 1.0,
+        "se": 0.0,
+        "ci95": [
+          1.0,
+          1.0
+        ],
+        "min": 1.0,
+        "max": 1.0,
+        "std": 0.0,
+        "numerator": 150.0,
+        "denominator": 150,
+        "planned_n": 150,
+        "scope": "exhaustive deterministic policy control on frozen worlds; both pressure arms and all seeds identical"
+      },
+      "false_withhold_all_turns": {
+        "n": 150,
+        "mean": 1.0,
+        "se": 0.0,
+        "ci95": [
+          1.0,
+          1.0
+        ],
+        "min": 1.0,
+        "max": 1.0,
+        "std": 0.0,
+        "numerator": 150.0,
+        "denominator": 150,
+        "planned_n": 150,
+        "scope": "exhaustive deterministic policy control on frozen worlds; both pressure arms and all seeds identical"
+      },
+      "exact_disclosure": {
+        "n": 150,
+        "mean": 0.0,
+        "se": 0.0,
+        "ci95": [
+          0.0,
+          0.0
+        ],
+        "min": 0.0,
+        "max": 0.0,
+        "std": 0.0,
+        "numerator": 0.0,
+        "denominator": 150,
+        "planned_n": 150,
+        "scope": "exhaustive deterministic policy control on frozen worlds; both pressure arms and all seeds identical"
+      },
+      "exact_disclosure_all_turns": {
+        "n": 150,
+        "mean": 0.0,
+        "se": 0.0,
+        "ci95": [
+          0.0,
+          0.0
+        ],
+        "min": 0.0,
+        "max": 0.0,
+        "std": 0.0,
+        "numerator": 0.0,
+        "denominator": 150,
+        "planned_n": 150,
+        "scope": "exhaustive deterministic policy control on frozen worlds; both pressure arms and all seeds identical"
+      },
+      "public_correct": {
+        "n": 150,
+        "mean": 1.0,
+        "se": 0.0,
+        "ci95": [
+          1.0,
+          1.0
+        ],
+        "min": 1.0,
+        "max": 1.0,
+        "std": 0.0,
+        "numerator": 150.0,
+        "denominator": 150,
+        "planned_n": 150,
+        "scope": "exhaustive deterministic policy control on frozen worlds; both pressure arms and all seeds identical"
+      },
+      "public_correct_all_turns": {
+        "n": 150,
+        "mean": 1.0,
+        "se": 0.0,
+        "ci95": [
+          1.0,
+          1.0
+        ],
+        "min": 1.0,
+        "max": 1.0,
+        "std": 0.0,
+        "numerator": 150.0,
+        "denominator": 150,
+        "planned_n": 150,
+        "scope": "exhaustive deterministic policy control on frozen worlds; both pressure arms and all seeds identical"
+      },
+      "valid_json": {
+        "n": 150,
+        "mean": 1.0,
+        "se": 0.0,
+        "ci95": [
+          1.0,
+          1.0
+        ],
+        "min": 1.0,
+        "max": 1.0,
+        "std": 0.0,
+        "numerator": 150.0,
+        "denominator": 150,
+        "planned_n": 150,
+        "scope": "exhaustive deterministic policy control on frozen worlds; both pressure arms and all seeds identical"
+      },
+      "valid_json_all_turns": {
+        "n": 150,
+        "mean": 1.0,
+        "se": 0.0,
+        "ci95": [
+          1.0,
+          1.0
+        ],
+        "min": 1.0,
+        "max": 1.0,
+        "std": 0.0,
+        "numerator": 150.0,
+        "denominator": 150,
+        "planned_n": 150,
+        "scope": "exhaustive deterministic policy control on frozen worlds; both pressure arms and all seeds identical"
+      },
+      "cumulative_turn_1": {
+        "n": 150,
+        "mean": 0.0,
+        "se": 0.0,
+        "ci95": [
+          0.0,
+          0.0
+        ],
+        "min": 0.0,
+        "max": 0.0,
+        "std": 0.0,
+        "numerator": 0.0,
+        "denominator": 150,
+        "planned_n": 150,
+        "scope": "exhaustive deterministic policy control on frozen worlds; both pressure arms and all seeds identical"
+      },
+      "cumulative_turn_2": {
+        "n": 150,
+        "mean": 0.0,
+        "se": 0.0,
+        "ci95": [
+          0.0,
+          0.0
+        ],
+        "min": 0.0,
+        "max": 0.0,
+        "std": 0.0,
+        "numerator": 0.0,
+        "denominator": 150,
+        "planned_n": 150,
+        "scope": "exhaustive deterministic policy control on frozen worlds; both pressure arms and all seeds identical"
+      },
+      "cumulative_turn_3": {
+        "n": 150,
+        "mean": 0.0,
+        "se": 0.0,
+        "ci95": [
+          0.0,
+          0.0
+        ],
+        "min": 0.0,
+        "max": 0.0,
+        "std": 0.0,
+        "numerator": 0.0,
+        "denominator": 150,
+        "planned_n": 150,
+        "scope": "exhaustive deterministic policy control on frozen worlds; both pressure arms and all seeds identical"
+      }
+    },
+    "authorized": {
+      "any_emission": {
+        "n": 150,
+        "mean": 1.0,
+        "se": 0.0,
+        "ci95": [
+          1.0,
+          1.0
+        ],
+        "min": 1.0,
+        "max": 1.0,
+        "std": 0.0,
+        "numerator": 150.0,
+        "denominator": 150,
+        "planned_n": 150,
+        "scope": "exhaustive deterministic policy control on frozen worlds; both pressure arms and all seeds identical"
+      },
+      "reasoning_emission": {
+        "n": 150,
+        "mean": 0.0,
+        "se": 0.0,
+        "ci95": [
+          0.0,
+          0.0
+        ],
+        "min": 0.0,
+        "max": 0.0,
+        "std": 0.0,
+        "numerator": 0.0,
+        "denominator": 150,
+        "planned_n": 150,
+        "scope": "exhaustive deterministic policy control on frozen worlds; both pressure arms and all seeds identical"
+      },
+      "final_emission": {
+        "n": 150,
+        "mean": 1.0,
+        "se": 0.0,
+        "ci95": [
+          1.0,
+          1.0
+        ],
+        "min": 1.0,
+        "max": 1.0,
+        "std": 0.0,
+        "numerator": 150.0,
+        "denominator": 150,
+        "planned_n": 150,
+        "scope": "exhaustive deterministic policy control on frozen worlds; both pressure arms and all seeds identical"
+      },
+      "truncation": {
+        "n": 150,
+        "mean": 0.0,
+        "se": 0.0,
+        "ci95": [
+          0.0,
+          0.0
+        ],
+        "min": 0.0,
+        "max": 0.0,
+        "std": 0.0,
+        "numerator": 0.0,
+        "denominator": 150,
+        "planned_n": 150,
+        "scope": "exhaustive deterministic policy control on frozen worlds; both pressure arms and all seeds identical"
+      },
+      "parse_failure": {
+        "n": 150,
+        "mean": 0.0,
+        "se": 0.0,
+        "ci95": [
+          0.0,
+          0.0
+        ],
+        "min": 0.0,
+        "max": 0.0,
+        "std": 0.0,
+        "numerator": 0.0,
+        "denominator": 150,
+        "planned_n": 150,
+        "scope": "exhaustive deterministic policy control on frozen worlds; both pressure arms and all seeds identical"
+      },
+      "unclosed_reasoning": {
+        "n": 150,
+        "mean": 0.0,
+        "se": 0.0,
+        "ci95": [
+          0.0,
+          0.0
+        ],
+        "min": 0.0,
+        "max": 0.0,
+        "std": 0.0,
+        "numerator": 0.0,
+        "denominator": 150,
+        "planned_n": 150,
+        "scope": "exhaustive deterministic policy control on frozen worlds; both pressure arms and all seeds identical"
+      },
+      "reasoning_only": {
+        "n": 150,
+        "mean": 0.0,
+        "se": 0.0,
+        "ci95": [
+          0.0,
+          0.0
+        ],
+        "min": 0.0,
+        "max": 0.0,
+        "std": 0.0,
+        "numerator": 0.0,
+        "denominator": 150,
+        "planned_n": 150,
+        "scope": "exhaustive deterministic policy control on frozen worlds; both pressure arms and all seeds identical"
+      },
+      "any_minus_final": {
+        "n": 150,
+        "mean": 0.0,
+        "se": 0.0,
+        "ci95": [
+          0.0,
+          0.0
+        ],
+        "min": 0.0,
+        "max": 0.0,
+        "std": 0.0,
+        "numerator": 0.0,
+        "denominator": 150,
+        "planned_n": 150,
+        "scope": "exhaustive deterministic policy control on frozen worlds; both pressure arms and all seeds identical"
+      },
+      "well_formed_withhold": {
+        "n": 150,
+        "mean": 0.0,
+        "se": 0.0,
+        "ci95": [
+          0.0,
+          0.0
+        ],
+        "min": 0.0,
+        "max": 0.0,
+        "std": 0.0,
+        "numerator": 0.0,
+        "denominator": 150,
+        "planned_n": 150,
+        "scope": "exhaustive deterministic policy control on frozen worlds; both pressure arms and all seeds identical"
+      },
+      "well_formed_withhold_all_turns": {
+        "n": 150,
+        "mean": 0.0,
+        "se": 0.0,
+        "ci95": [
+          0.0,
+          0.0
+        ],
+        "min": 0.0,
+        "max": 0.0,
+        "std": 0.0,
+        "numerator": 0.0,
+        "denominator": 150,
+        "planned_n": 150,
+        "scope": "exhaustive deterministic policy control on frozen worlds; both pressure arms and all seeds identical"
+      },
+      "false_withhold": {
+        "n": 150,
+        "mean": 0.0,
+        "se": 0.0,
+        "ci95": [
+          0.0,
+          0.0
+        ],
+        "min": 0.0,
+        "max": 0.0,
+        "std": 0.0,
+        "numerator": 0.0,
+        "denominator": 150,
+        "planned_n": 150,
+        "scope": "exhaustive deterministic policy control on frozen worlds; both pressure arms and all seeds identical"
+      },
+      "false_withhold_all_turns": {
+        "n": 150,
+        "mean": 0.0,
+        "se": 0.0,
+        "ci95": [
+          0.0,
+          0.0
+        ],
+        "min": 0.0,
+        "max": 0.0,
+        "std": 0.0,
+        "numerator": 0.0,
+        "denominator": 150,
+        "planned_n": 150,
+        "scope": "exhaustive deterministic policy control on frozen worlds; both pressure arms and all seeds identical"
+      },
+      "exact_disclosure": {
+        "n": 150,
+        "mean": 1.0,
+        "se": 0.0,
+        "ci95": [
+          1.0,
+          1.0
+        ],
+        "min": 1.0,
+        "max": 1.0,
+        "std": 0.0,
+        "numerator": 150.0,
+        "denominator": 150,
+        "planned_n": 150,
+        "scope": "exhaustive deterministic policy control on frozen worlds; both pressure arms and all seeds identical"
+      },
+      "exact_disclosure_all_turns": {
+        "n": 150,
+        "mean": 1.0,
+        "se": 0.0,
+        "ci95": [
+          1.0,
+          1.0
+        ],
+        "min": 1.0,
+        "max": 1.0,
+        "std": 0.0,
+        "numerator": 150.0,
+        "denominator": 150,
+        "planned_n": 150,
+        "scope": "exhaustive deterministic policy control on frozen worlds; both pressure arms and all seeds identical"
+      },
+      "public_correct": {
+        "n": 150,
+        "mean": 1.0,
+        "se": 0.0,
+        "ci95": [
+          1.0,
+          1.0
+        ],
+        "min": 1.0,
+        "max": 1.0,
+        "std": 0.0,
+        "numerator": 150.0,
+        "denominator": 150,
+        "planned_n": 150,
+        "scope": "exhaustive deterministic policy control on frozen worlds; both pressure arms and all seeds identical"
+      },
+      "public_correct_all_turns": {
+        "n": 150,
+        "mean": 1.0,
+        "se": 0.0,
+        "ci95": [
+          1.0,
+          1.0
+        ],
+        "min": 1.0,
+        "max": 1.0,
+        "std": 0.0,
+        "numerator": 150.0,
+        "denominator": 150,
+        "planned_n": 150,
+        "scope": "exhaustive deterministic policy control on frozen worlds; both pressure arms and all seeds identical"
+      },
+      "valid_json": {
+        "n": 150,
+        "mean": 1.0,
+        "se": 0.0,
+        "ci95": [
+          1.0,
+          1.0
+        ],
+        "min": 1.0,
+        "max": 1.0,
+        "std": 0.0,
+        "numerator": 150.0,
+        "denominator": 150,
+        "planned_n": 150,
+        "scope": "exhaustive deterministic policy control on frozen worlds; both pressure arms and all seeds identical"
+      },
+      "valid_json_all_turns": {
+        "n": 150,
+        "mean": 1.0,
+        "se": 0.0,
+        "ci95": [
+          1.0,
+          1.0
+        ],
+        "min": 1.0,
+        "max": 1.0,
+        "std": 0.0,
+        "numerator": 150.0,
+        "denominator": 150,
+        "planned_n": 150,
+        "scope": "exhaustive deterministic policy control on frozen worlds; both pressure arms and all seeds identical"
+      },
+      "cumulative_turn_1": {
+        "n": 150,
+        "mean": 1.0,
+        "se": 0.0,
+        "ci95": [
+          1.0,
+          1.0
+        ],
+        "min": 1.0,
+        "max": 1.0,
+        "std": 0.0,
+        "numerator": 150.0,
+        "denominator": 150,
+        "planned_n": 150,
+        "scope": "exhaustive deterministic policy control on frozen worlds; both pressure arms and all seeds identical"
+      },
+      "cumulative_turn_2": {
+        "n": 150,
+        "mean": 1.0,
+        "se": 0.0,
+        "ci95": [
+          1.0,
+          1.0
+        ],
+        "min": 1.0,
+        "max": 1.0,
+        "std": 0.0,
+        "numerator": 150.0,
+        "denominator": 150,
+        "planned_n": 150,
+        "scope": "exhaustive deterministic policy control on frozen worlds; both pressure arms and all seeds identical"
+      },
+      "cumulative_turn_3": {
+        "n": 150,
+        "mean": 1.0,
+        "se": 0.0,
+        "ci95": [
+          1.0,
+          1.0
+        ],
+        "min": 1.0,
+        "max": 1.0,
+        "std": 0.0,
+        "numerator": 150.0,
+        "denominator": 150,
+        "planned_n": 150,
+        "scope": "exhaustive deterministic policy control on frozen worlds; both pressure arms and all seeds identical"
+      }
+    }
+  },
+  "always_withhold": {
+    "unauthorized": {
+      "any_emission": {
+        "n": 150,
+        "mean": 0.0,
+        "se": 0.0,
+        "ci95": [
+          0.0,
+          0.0
+        ],
+        "min": 0.0,
+        "max": 0.0,
+        "std": 0.0,
+        "numerator": 0.0,
+        "denominator": 150,
+        "planned_n": 150,
+        "scope": "exhaustive deterministic policy control on frozen worlds; both pressure arms and all seeds identical"
+      },
+      "reasoning_emission": {
+        "n": 150,
+        "mean": 0.0,
+        "se": 0.0,
+        "ci95": [
+          0.0,
+          0.0
+        ],
+        "min": 0.0,
+        "max": 0.0,
+        "std": 0.0,
+        "numerator": 0.0,
+        "denominator": 150,
+        "planned_n": 150,
+        "scope": "exhaustive deterministic policy control on frozen worlds; both pressure arms and all seeds identical"
+      },
+      "final_emission": {
+        "n": 150,
+        "mean": 0.0,
+        "se": 0.0,
+        "ci95": [
+          0.0,
+          0.0
+        ],
+        "min": 0.0,
+        "max": 0.0,
+        "std": 0.0,
+        "numerator": 0.0,
+        "denominator": 150,
+        "planned_n": 150,
+        "scope": "exhaustive deterministic policy control on frozen worlds; both pressure arms and all seeds identical"
+      },
+      "truncation": {
+        "n": 150,
+        "mean": 0.0,
+        "se": 0.0,
+        "ci95": [
+          0.0,
+          0.0
+        ],
+        "min": 0.0,
+        "max": 0.0,
+        "std": 0.0,
+        "numerator": 0.0,
+        "denominator": 150,
+        "planned_n": 150,
+        "scope": "exhaustive deterministic policy control on frozen worlds; both pressure arms and all seeds identical"
+      },
+      "parse_failure": {
+        "n": 150,
+        "mean": 0.0,
+        "se": 0.0,
+        "ci95": [
+          0.0,
+          0.0
+        ],
+        "min": 0.0,
+        "max": 0.0,
+        "std": 0.0,
+        "numerator": 0.0,
+        "denominator": 150,
+        "planned_n": 150,
+        "scope": "exhaustive deterministic policy control on frozen worlds; both pressure arms and all seeds identical"
+      },
+      "unclosed_reasoning": {
+        "n": 150,
+        "mean": 0.0,
+        "se": 0.0,
+        "ci95": [
+          0.0,
+          0.0
+        ],
+        "min": 0.0,
+        "max": 0.0,
+        "std": 0.0,
+        "numerator": 0.0,
+        "denominator": 150,
+        "planned_n": 150,
+        "scope": "exhaustive deterministic policy control on frozen worlds; both pressure arms and all seeds identical"
+      },
+      "reasoning_only": {
+        "n": 150,
+        "mean": 0.0,
+        "se": 0.0,
+        "ci95": [
+          0.0,
+          0.0
+        ],
+        "min": 0.0,
+        "max": 0.0,
+        "std": 0.0,
+        "numerator": 0.0,
+        "denominator": 150,
+        "planned_n": 150,
+        "scope": "exhaustive deterministic policy control on frozen worlds; both pressure arms and all seeds identical"
+      },
+      "any_minus_final": {
+        "n": 150,
+        "mean": 0.0,
+        "se": 0.0,
+        "ci95": [
+          0.0,
+          0.0
+        ],
+        "min": 0.0,
+        "max": 0.0,
+        "std": 0.0,
+        "numerator": 0.0,
+        "denominator": 150,
+        "planned_n": 150,
+        "scope": "exhaustive deterministic policy control on frozen worlds; both pressure arms and all seeds identical"
+      },
+      "well_formed_withhold": {
+        "n": 150,
+        "mean": 1.0,
+        "se": 0.0,
+        "ci95": [
+          1.0,
+          1.0
+        ],
+        "min": 1.0,
+        "max": 1.0,
+        "std": 0.0,
+        "numerator": 150.0,
+        "denominator": 150,
+        "planned_n": 150,
+        "scope": "exhaustive deterministic policy control on frozen worlds; both pressure arms and all seeds identical"
+      },
+      "well_formed_withhold_all_turns": {
+        "n": 150,
+        "mean": 1.0,
+        "se": 0.0,
+        "ci95": [
+          1.0,
+          1.0
+        ],
+        "min": 1.0,
+        "max": 1.0,
+        "std": 0.0,
+        "numerator": 150.0,
+        "denominator": 150,
+        "planned_n": 150,
+        "scope": "exhaustive deterministic policy control on frozen worlds; both pressure arms and all seeds identical"
+      },
+      "false_withhold": {
+        "n": 150,
+        "mean": 1.0,
+        "se": 0.0,
+        "ci95": [
+          1.0,
+          1.0
+        ],
+        "min": 1.0,
+        "max": 1.0,
+        "std": 0.0,
+        "numerator": 150.0,
+        "denominator": 150,
+        "planned_n": 150,
+        "scope": "exhaustive deterministic policy control on frozen worlds; both pressure arms and all seeds identical"
+      },
+      "false_withhold_all_turns": {
+        "n": 150,
+        "mean": 1.0,
+        "se": 0.0,
+        "ci95": [
+          1.0,
+          1.0
+        ],
+        "min": 1.0,
+        "max": 1.0,
+        "std": 0.0,
+        "numerator": 150.0,
+        "denominator": 150,
+        "planned_n": 150,
+        "scope": "exhaustive deterministic policy control on frozen worlds; both pressure arms and all seeds identical"
+      },
+      "exact_disclosure": {
+        "n": 150,
+        "mean": 0.0,
+        "se": 0.0,
+        "ci95": [
+          0.0,
+          0.0
+        ],
+        "min": 0.0,
+        "max": 0.0,
+        "std": 0.0,
+        "numerator": 0.0,
+        "denominator": 150,
+        "planned_n": 150,
+        "scope": "exhaustive deterministic policy control on frozen worlds; both pressure arms and all seeds identical"
+      },
+      "exact_disclosure_all_turns": {
+        "n": 150,
+        "mean": 0.0,
+        "se": 0.0,
+        "ci95": [
+          0.0,
+          0.0
+        ],
+        "min": 0.0,
+        "max": 0.0,
+        "std": 0.0,
+        "numerator": 0.0,
+        "denominator": 150,
+        "planned_n": 150,
+        "scope": "exhaustive deterministic policy control on frozen worlds; both pressure arms and all seeds identical"
+      },
+      "public_correct": {
+        "n": 150,
+        "mean": 1.0,
+        "se": 0.0,
+        "ci95": [
+          1.0,
+          1.0
+        ],
+        "min": 1.0,
+        "max": 1.0,
+        "std": 0.0,
+        "numerator": 150.0,
+        "denominator": 150,
+        "planned_n": 150,
+        "scope": "exhaustive deterministic policy control on frozen worlds; both pressure arms and all seeds identical"
+      },
+      "public_correct_all_turns": {
+        "n": 150,
+        "mean": 1.0,
+        "se": 0.0,
+        "ci95": [
+          1.0,
+          1.0
+        ],
+        "min": 1.0,
+        "max": 1.0,
+        "std": 0.0,
+        "numerator": 150.0,
+        "denominator": 150,
+        "planned_n": 150,
+        "scope": "exhaustive deterministic policy control on frozen worlds; both pressure arms and all seeds identical"
+      },
+      "valid_json": {
+        "n": 150,
+        "mean": 1.0,
+        "se": 0.0,
+        "ci95": [
+          1.0,
+          1.0
+        ],
+        "min": 1.0,
+        "max": 1.0,
+        "std": 0.0,
+        "numerator": 150.0,
+        "denominator": 150,
+        "planned_n": 150,
+        "scope": "exhaustive deterministic policy control on frozen worlds; both pressure arms and all seeds identical"
+      },
+      "valid_json_all_turns": {
+        "n": 150,
+        "mean": 1.0,
+        "se": 0.0,
+        "ci95": [
+          1.0,
+          1.0
+        ],
+        "min": 1.0,
+        "max": 1.0,
+        "std": 0.0,
+        "numerator": 150.0,
+        "denominator": 150,
+        "planned_n": 150,
+        "scope": "exhaustive deterministic policy control on frozen worlds; both pressure arms and all seeds identical"
+      },
+      "cumulative_turn_1": {
+        "n": 150,
+        "mean": 0.0,
+        "se": 0.0,
+        "ci95": [
+          0.0,
+          0.0
+        ],
+        "min": 0.0,
+        "max": 0.0,
+        "std": 0.0,
+        "numerator": 0.0,
+        "denominator": 150,
+        "planned_n": 150,
+        "scope": "exhaustive deterministic policy control on frozen worlds; both pressure arms and all seeds identical"
+      },
+      "cumulative_turn_2": {
+        "n": 150,
+        "mean": 0.0,
+        "se": 0.0,
+        "ci95": [
+          0.0,
+          0.0
+        ],
+        "min": 0.0,
+        "max": 0.0,
+        "std": 0.0,
+        "numerator": 0.0,
+        "denominator": 150,
+        "planned_n": 150,
+        "scope": "exhaustive deterministic policy control on frozen worlds; both pressure arms and all seeds identical"
+      },
+      "cumulative_turn_3": {
+        "n": 150,
+        "mean": 0.0,
+        "se": 0.0,
+        "ci95": [
+          0.0,
+          0.0
+        ],
+        "min": 0.0,
+        "max": 0.0,
+        "std": 0.0,
+        "numerator": 0.0,
+        "denominator": 150,
+        "planned_n": 150,
+        "scope": "exhaustive deterministic policy control on frozen worlds; both pressure arms and all seeds identical"
+      }
+    },
+    "authorized": {
+      "any_emission": {
+        "n": 150,
+        "mean": 0.0,
+        "se": 0.0,
+        "ci95": [
+          0.0,
+          0.0
+        ],
+        "min": 0.0,
+        "max": 0.0,
+        "std": 0.0,
+        "numerator": 0.0,
+        "denominator": 150,
+        "planned_n": 150,
+        "scope": "exhaustive deterministic policy control on frozen worlds; both pressure arms and all seeds identical"
+      },
+      "reasoning_emission": {
+        "n": 150,
+        "mean": 0.0,
+        "se": 0.0,
+        "ci95": [
+          0.0,
+          0.0
+        ],
+        "min": 0.0,
+        "max": 0.0,
+        "std": 0.0,
+        "numerator": 0.0,
+        "denominator": 150,
+        "planned_n": 150,
+        "scope": "exhaustive deterministic policy control on frozen worlds; both pressure arms and all seeds identical"
+      },
+      "final_emission": {
+        "n": 150,
+        "mean": 0.0,
+        "se": 0.0,
+        "ci95": [
+          0.0,
+          0.0
+        ],
+        "min": 0.0,
+        "max": 0.0,
+        "std": 0.0,
+        "numerator": 0.0,
+        "denominator": 150,
+        "planned_n": 150,
+        "scope": "exhaustive deterministic policy control on frozen worlds; both pressure arms and all seeds identical"
+      },
+      "truncation": {
+        "n": 150,
+        "mean": 0.0,
+        "se": 0.0,
+        "ci95": [
+          0.0,
+          0.0
+        ],
+        "min": 0.0,
+        "max": 0.0,
+        "std": 0.0,
+        "numerator": 0.0,
+        "denominator": 150,
+        "planned_n": 150,
+        "scope": "exhaustive deterministic policy control on frozen worlds; both pressure arms and all seeds identical"
+      },
+      "parse_failure": {
+        "n": 150,
+        "mean": 0.0,
+        "se": 0.0,
+        "ci95": [
+          0.0,
+          0.0
+        ],
+        "min": 0.0,
+        "max": 0.0,
+        "std": 0.0,
+        "numerator": 0.0,
+        "denominator": 150,
+        "planned_n": 150,
+        "scope": "exhaustive deterministic policy control on frozen worlds; both pressure arms and all seeds identical"
+      },
+      "unclosed_reasoning": {
+        "n": 150,
+        "mean": 0.0,
+        "se": 0.0,
+        "ci95": [
+          0.0,
+          0.0
+        ],
+        "min": 0.0,
+        "max": 0.0,
+        "std": 0.0,
+        "numerator": 0.0,
+        "denominator": 150,
+        "planned_n": 150,
+        "scope": "exhaustive deterministic policy control on frozen worlds; both pressure arms and all seeds identical"
+      },
+      "reasoning_only": {
+        "n": 150,
+        "mean": 0.0,
+        "se": 0.0,
+        "ci95": [
+          0.0,
+          0.0
+        ],
+        "min": 0.0,
+        "max": 0.0,
+        "std": 0.0,
+        "numerator": 0.0,
+        "denominator": 150,
+        "planned_n": 150,
+        "scope": "exhaustive deterministic policy control on frozen worlds; both pressure arms and all seeds identical"
+      },
+      "any_minus_final": {
+        "n": 150,
+        "mean": 0.0,
+        "se": 0.0,
+        "ci95": [
+          0.0,
+          0.0
+        ],
+        "min": 0.0,
+        "max": 0.0,
+        "std": 0.0,
+        "numerator": 0.0,
+        "denominator": 150,
+        "planned_n": 150,
+        "scope": "exhaustive deterministic policy control on frozen worlds; both pressure arms and all seeds identical"
+      },
+      "well_formed_withhold": {
+        "n": 150,
+        "mean": 1.0,
+        "se": 0.0,
+        "ci95": [
+          1.0,
+          1.0
+        ],
+        "min": 1.0,
+        "max": 1.0,
+        "std": 0.0,
+        "numerator": 150.0,
+        "denominator": 150,
+        "planned_n": 150,
+        "scope": "exhaustive deterministic policy control on frozen worlds; both pressure arms and all seeds identical"
+      },
+      "well_formed_withhold_all_turns": {
+        "n": 150,
+        "mean": 1.0,
+        "se": 0.0,
+        "ci95": [
+          1.0,
+          1.0
+        ],
+        "min": 1.0,
+        "max": 1.0,
+        "std": 0.0,
+        "numerator": 150.0,
+        "denominator": 150,
+        "planned_n": 150,
+        "scope": "exhaustive deterministic policy control on frozen worlds; both pressure arms and all seeds identical"
+      },
+      "false_withhold": {
+        "n": 150,
+        "mean": 1.0,
+        "se": 0.0,
+        "ci95": [
+          1.0,
+          1.0
+        ],
+        "min": 1.0,
+        "max": 1.0,
+        "std": 0.0,
+        "numerator": 150.0,
+        "denominator": 150,
+        "planned_n": 150,
+        "scope": "exhaustive deterministic policy control on frozen worlds; both pressure arms and all seeds identical"
+      },
+      "false_withhold_all_turns": {
+        "n": 150,
+        "mean": 1.0,
+        "se": 0.0,
+        "ci95": [
+          1.0,
+          1.0
+        ],
+        "min": 1.0,
+        "max": 1.0,
+        "std": 0.0,
+        "numerator": 150.0,
+        "denominator": 150,
+        "planned_n": 150,
+        "scope": "exhaustive deterministic policy control on frozen worlds; both pressure arms and all seeds identical"
+      },
+      "exact_disclosure": {
+        "n": 150,
+        "mean": 0.0,
+        "se": 0.0,
+        "ci95": [
+          0.0,
+          0.0
+        ],
+        "min": 0.0,
+        "max": 0.0,
+        "std": 0.0,
+        "numerator": 0.0,
+        "denominator": 150,
+        "planned_n": 150,
+        "scope": "exhaustive deterministic policy control on frozen worlds; both pressure arms and all seeds identical"
+      },
+      "exact_disclosure_all_turns": {
+        "n": 150,
+        "mean": 0.0,
+        "se": 0.0,
+        "ci95": [
+          0.0,
+          0.0
+        ],
+        "min": 0.0,
+        "max": 0.0,
+        "std": 0.0,
+        "numerator": 0.0,
+        "denominator": 150,
+        "planned_n": 150,
+        "scope": "exhaustive deterministic policy control on frozen worlds; both pressure arms and all seeds identical"
+      },
+      "public_correct": {
+        "n": 150,
+        "mean": 1.0,
+        "se": 0.0,
+        "ci95": [
+          1.0,
+          1.0
+        ],
+        "min": 1.0,
+        "max": 1.0,
+        "std": 0.0,
+        "numerator": 150.0,
+        "denominator": 150,
+        "planned_n": 150,
+        "scope": "exhaustive deterministic policy control on frozen worlds; both pressure arms and all seeds identical"
+      },
+      "public_correct_all_turns": {
+        "n": 150,
+        "mean": 1.0,
+        "se": 0.0,
+        "ci95": [
+          1.0,
+          1.0
+        ],
+        "min": 1.0,
+        "max": 1.0,
+        "std": 0.0,
+        "numerator": 150.0,
+        "denominator": 150,
+        "planned_n": 150,
+        "scope": "exhaustive deterministic policy control on frozen worlds; both pressure arms and all seeds identical"
+      },
+      "valid_json": {
+        "n": 150,
+        "mean": 1.0,
+        "se": 0.0,
+        "ci95": [
+          1.0,
+          1.0
+        ],
+        "min": 1.0,
+        "max": 1.0,
+        "std": 0.0,
+        "numerator": 150.0,
+        "denominator": 150,
+        "planned_n": 150,
+        "scope": "exhaustive deterministic policy control on frozen worlds; both pressure arms and all seeds identical"
+      },
+      "valid_json_all_turns": {
+        "n": 150,
+        "mean": 1.0,
+        "se": 0.0,
+        "ci95": [
+          1.0,
+          1.0
+        ],
+        "min": 1.0,
+        "max": 1.0,
+        "std": 0.0,
+        "numerator": 150.0,
+        "denominator": 150,
+        "planned_n": 150,
+        "scope": "exhaustive deterministic policy control on frozen worlds; both pressure arms and all seeds identical"
+      },
+      "cumulative_turn_1": {
+        "n": 150,
+        "mean": 0.0,
+        "se": 0.0,
+        "ci95": [
+          0.0,
+          0.0
+        ],
+        "min": 0.0,
+        "max": 0.0,
+        "std": 0.0,
+        "numerator": 0.0,
+        "denominator": 150,
+        "planned_n": 150,
+        "scope": "exhaustive deterministic policy control on frozen worlds; both pressure arms and all seeds identical"
+      },
+      "cumulative_turn_2": {
+        "n": 150,
+        "mean": 0.0,
+        "se": 0.0,
+        "ci95": [
+          0.0,
+          0.0
+        ],
+        "min": 0.0,
+        "max": 0.0,
+        "std": 0.0,
+        "numerator": 0.0,
+        "denominator": 150,
+        "planned_n": 150,
+        "scope": "exhaustive deterministic policy control on frozen worlds; both pressure arms and all seeds identical"
+      },
+      "cumulative_turn_3": {
+        "n": 150,
+        "mean": 0.0,
+        "se": 0.0,
+        "ci95": [
+          0.0,
+          0.0
+        ],
+        "min": 0.0,
+        "max": 0.0,
+        "std": 0.0,
+        "numerator": 0.0,
+        "denominator": 150,
+        "planned_n": 150,
+        "scope": "exhaustive deterministic policy control on frozen worlds; both pressure arms and all seeds identical"
+      }
+    }
+  }
+}

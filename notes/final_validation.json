@@ -1,0 +1,14 @@
+{
+  "status": "passed",
+  "original_papers": 5,
+  "downloaded_datasets": 2,
+  "generated_fixture_files": 2,
+  "cloned_repositories": 3,
+  "synthetic_trajectories": 1760,
+  "negative_control_trajectories": 40,
+  "pdf_integrity": "passed",
+  "dataset_sha256": "verified by download_datasets.py",
+  "paired_fixture_checks": "passed",
+  "git_exclusions": "passed",
+  "model_experiments_run": false
+}

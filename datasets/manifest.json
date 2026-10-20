@@ -1,0 +1,46 @@
+[
+  {
+    "name": "extraction",
+    "source": "https://huggingface.co/datasets/qxcv/tensor-trust/resolve/4de2b2fe01ba0cb6fbf7cbb9f1a3fabaf8157372/benchmarks/extraction-robustness/v1/extraction_robustness_dataset.jsonl",
+    "revision": "4de2b2fe01ba0cb6fbf7cbb9f1a3fabaf8157372",
+    "path": "datasets/tensor_trust_extraction.jsonl",
+    "rows": 570,
+    "bytes": 685113,
+    "sha256": "4090f9f57b6df69cc32d7669ac991e3fd53e6e2bb616a5e6f45dac79c183ee4c",
+    "columns": [
+      "sample_id",
+      "pre_prompt",
+      "attack",
+      "post_prompt",
+      "access_code"
+    ],
+    "nulls": {
+      "sample_id": 0,
+      "pre_prompt": 0,
+      "attack": 0,
+      "post_prompt": 0,
+      "access_code": 0
+    }
+  },
+  {
+    "name": "detection",
+    "source": "https://huggingface.co/datasets/qxcv/tensor-trust/resolve/4de2b2fe01ba0cb6fbf7cbb9f1a3fabaf8157372/detecting-extractions/v1/prompt_extraction_detection.jsonl",
+    "revision": "4de2b2fe01ba0cb6fbf7cbb9f1a3fabaf8157372",
+    "path": "datasets/tensor_trust_detection.jsonl",
+    "rows": 230,
+    "bytes": 160942,
+    "sha256": "af28d09554db4f8ed91d042005c3457f72c88e763e3787c3b1c76c1d9e8f8260",
+    "columns": [
+      "sample_id",
+      "access_code",
+      "llm_output",
+      "is_prompt_extraction"
+    ],
+    "nulls": {
+      "sample_id": 0,
+      "access_code": 0,
+      "llm_output": 0,
+      "is_prompt_extraction": 0
+    }
+  }
+]

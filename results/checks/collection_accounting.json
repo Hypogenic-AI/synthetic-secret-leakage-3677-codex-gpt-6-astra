@@ -1,0 +1,24 @@
+{
+  "deepseek-r1-distill-llama-8b": {
+    "planned_conversations": 1800,
+    "complete_conversations": 289,
+    "missing_conversations": 1511,
+    "conversations_with_partial_returned_turns": 75,
+    "returned_turns": 980,
+    "completed_transcript_turns": 867,
+    "prompt_tokens": 330213,
+    "completion_tokens": 512781,
+    "prompt_token_accounting_matches": true
+  },
+  "qwen3-8b": {
+    "planned_conversations": 1800,
+    "complete_conversations": 805,
+    "missing_conversations": 995,
+    "conversations_with_partial_returned_turns": 55,
+    "returned_turns": 2501,
+    "completed_transcript_turns": 2415,
+    "prompt_tokens": 850852,
+    "completion_tokens": 753448,
+    "prompt_token_accounting_matches": true
+  }
+}

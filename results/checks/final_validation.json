@@ -1,0 +1,27 @@
+{
+  "passed": true,
+  "frozen_at": "2026-10-20T15:48:22.558189+00:00",
+  "hash_drift": [],
+  "scorer_fixture_agreement": true,
+  "analysis_bitwise_reproducible": true,
+  "world_pairing": true,
+  "models": {
+    "qwen3-8b": {
+      "planned": 1800,
+      "observed": 805,
+      "complete": 805,
+      "scorer_rescore": true,
+      "unique_ids": true
+    },
+    "deepseek-r1-distill-llama-8b": {
+      "planned": 1800,
+      "observed": 289,
+      "complete": 289,
+      "scorer_rescore": true,
+      "unique_ids": true
+    }
+  },
+  "complete_collection": false,
+  "schema_required_fields": true,
+  "scope": "incomplete collection remains a scientific limitation even when artifact validation passes"
+}

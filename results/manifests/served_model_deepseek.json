@@ -1,0 +1,30 @@
+{
+  "object": "list",
+  "data": [
+    {
+      "id": "deepseek-r1-distill-llama-8b",
+      "object": "model",
+      "created": 1792511553,
+      "owned_by": "vllm",
+      "root": "/net/spaces/chenhao/chai-lab-models/haokunliu/safety/workspaces/synthetic-secret-leakage-3677-codex-gpt-6-astra/models/DeepSeek-R1-Distill-Llama-8B",
+      "parent": null,
+      "max_model_len": 8192,
+      "permission": [
+        {
+          "id": "modelperm-9941de6808d21b86",
+          "object": "model_permission",
+          "created": 1792511553,
+          "allow_create_engine": false,
+          "allow_sampling": true,
+          "allow_logprobs": true,
+          "allow_search_indices": false,
+          "allow_view": true,
+          "allow_fine_tuning": false,
+          "organization": "*",
+          "group": null,
+          "is_blocking": false
+        }
+      ]
+    }
+  ]
+}

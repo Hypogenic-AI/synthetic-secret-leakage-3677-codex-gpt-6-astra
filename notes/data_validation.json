@@ -1,0 +1,28 @@
+{
+  "extraction": {
+    "n": 570,
+    "unique_ids": 570,
+    "empty_fields": {
+      "sample_id": 0,
+      "pre_prompt": 2,
+      "attack": 0,
+      "post_prompt": 105,
+      "access_code": 0
+    }
+  },
+  "detection": {
+    "n": 230,
+    "unique_ids": 230,
+    "empty_fields": {
+      "sample_id": 0,
+      "access_code": 0,
+      "llm_output": 0,
+      "is_prompt_extraction": 0
+    },
+    "casefold_exact_vs_human": {
+      "('True', False)": 67,
+      "('False', False)": 115,
+      "('True', True)": 48
+    }
+  }
+}
